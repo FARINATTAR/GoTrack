@@ -1,0 +1,23 @@
+# binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# test binary
+*.test
+
+# output
+*.out
+
+# go workspace
+go.work
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
